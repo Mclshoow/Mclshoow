@@ -1,6 +1,10 @@
 ## Olá! Eu sou o Marcelo Augusto! ##
 
-- 🐱‍👤 I’m currently learning **C#, Js, Flutter, CSS, HTML**
+- 🐱‍👤 I’m currently learning:  **C#, Js, Flutter, CSS, HTML!**
+- 👯 I’m looking to collaborate on small projects for ***my experience!***
+- 💬 Ask me about ***anything!***                          
+- ⚡ Fun fact: I started programming with GameGuru.
+                  I have a creative mind and imagined what it would be like to create something from that vision.
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -22,6 +26,8 @@
    <a href="https://instagram.com/mclshoow" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="mailto:marcelo.1998@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"target="_blank"></a>
   <a href="https://www.linkedin.com/in/mclshoow/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://steamcommunity.com/id/mclshoow" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+  <a href="https://csgostats.gg/player/76561198066389381" target="_blank"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white"</a>
 </div>
   
   ![Snake animation](https://github.com/mclshoow/mclshoow/blob/output/github-contribution-grid-snake.svg)
