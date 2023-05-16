@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Marcelo Augusto! ##
 
 - 🐱‍👤 I’m currently learning:  **C#, Js, Flutter, CSS, HTML!**
-- 👯 I’m looking to collaborate on small projects for ***my experience!***
-- 💬 Ask me about ***anything!***                          
+- 👯 I’m looking to collaborate on small projects for ***my experience!***                      
 - ⚡ Fun fact: I started programming with GameGuru.
                   I have a creative mind and imagined what it would be like to create something from that vision.
 
